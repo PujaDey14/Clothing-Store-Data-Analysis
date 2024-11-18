@@ -26,6 +26,19 @@ The key objectives of the analysis include:
      *	Top 5 states contributing to sales.
      *  Channel that Contribute More.
      *  Highest Selling Category.
+       
+📈 Insight
+
+The analysis can help V2 Clothing Store:
+•	Women are more likely to buy, compared to men.
+•	Maharastra , Karnataka and Uttar Pradesh are top 3 states .
+•	Adult group are maximum contributing.
+•	Amazon , Flipkart and Myntra Channel are maximum contributing. 
+
+🤝 Conclusion to Improve V2 Clothing Store Sales
+
+Target Women Customer of Age group (30-40yrs) living in Maharastra , Karnataka  and Uttar Pradesh
+by Showing ad /offers/ Coupan available on Myntra, Amazon and Flipkart.
 
 
 
