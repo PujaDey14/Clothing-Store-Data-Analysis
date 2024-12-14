@@ -1,6 +1,6 @@
-V2 Clothing Store DATA ANALYSIS (Interactive dashboard Creation using MS Excel)
+# V2 Clothing Store DATA ANALYSIS (Interactive dashboard Creation using MS Excel)
 
-📋 Project Description
+# 📋 Project Description
 
 The project involves organizing, analyzing, and visualizing sales data from V2 Clothing Store. 
 The key objectives of the analysis include:
@@ -9,7 +9,7 @@ The key objectives of the analysis include:
 •	Analyzing customer demographics and purchase patterns.
 •	Providing actionable insights for business growth.
 
-📊 Features of the Project
+# 📊 Features of the Project
 
 1.	Data Cleaning and Organization:
      *  Removing inconsistencies and duplicates.
@@ -27,7 +27,7 @@ The key objectives of the analysis include:
      *  Channel that Contribute More.
      *  Highest Selling Category.
        
-📈 Insight
+# 📈 Insight
 
 The analysis can help V2 Clothing Store:
 •	Women are more likely to buy, compared to men.
@@ -35,7 +35,7 @@ The analysis can help V2 Clothing Store:
 •	Adult group are maximum contributing.
 •	Amazon , Flipkart and Myntra Channel are maximum contributing. 
 
-🤝 Conclusion to Improve V2 Clothing Store Sales
+
 
 Target Women Customer of Age group (30-40yrs) living in Maharastra , Karnataka  and Uttar Pradesh
 by Showing ad /offers/ Coupan available on Myntra, Amazon and Flipkart.
